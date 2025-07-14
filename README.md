@@ -83,7 +83,31 @@ Databricks Auto Loader is super efficient for streaming and handling new files a
 Delta Live Tables help enforce data quality and make Gold layer pipelines robust and maintainable.<br>
 
 ## **✨ Conclusion**<br>
-This project shows how to build a modern Lakehouse architecture on Azure using best practices.<br>
+This project shows how to build a modern Lakehouse architecture on Azure using best practices.<be>
+
+## **📸 Screenshots & Highlights**<be>
+Here are some screenshots that show the different parts of my Azure Medallion Architecture project.<br>
+<img width="1920" height="838" alt="adf-netflix-project-lagil - Azure Data Factory - Google Chrome 12-07-2025 08_01_00" src="https://github.com/user-attachments/assets/55669fe5-117c-4fc9-af5d-4540984ca7f6" />
+<img width="1920" height="838" alt="adf-netflix-project-lagil - Azure Data Factory - Google Chrome 12-07-2025 08_06_51" src="https://github.com/user-attachments/assets/e10052ed-ccd8-4b2a-959d-8ce051b3868a" />
+<img width="1019" height="173" alt="Untitled document - Google Docs - Google Chrome 14-07-2025 22_51_18" src="https://github.com/user-attachments/assets/defbed0b-bb18-4512-b81a-138d382605eb" />
+<img width="1920" height="837" alt="adf-netflix-project-lagil - Azure Data Factory - Google Chrome 12-07-2025 11_53_44" src="https://github.com/user-attachments/assets/65c13c2c-b99c-4d0e-b332-575df655815c" />
+<img width="1920" height="835" alt="adf-netflix-project-lagil - Azure Data Factory - Google Chrome 12-07-2025 12_03_42" src="https://github.com/user-attachments/assets/cf704dcd-d3a4-47e8-88fb-897a0476ef3a" />
+<img width="1920" height="833" alt="1_Autoloader - Databricks - Google Chrome 13-07-2025 17_29_02" src="https://github.com/user-attachments/assets/c361f560-1d63-401d-8170-bca74c981dea" />
+<img width="1920" height="832" alt="1_Autoloader - Databricks - Google Chrome 13-07-2025 17_35_34" src="https://github.com/user-attachments/assets/d068fa82-be28-4d41-8bb7-bc5a9f75aec0" />
+<img width="1920" height="830" alt="Run 26007717019003 of New Job Jul 13, 2025, 11_41 PM - Databricks - Google Chrome 14-07-2025 00_05_43" src="https://github.com/user-attachments/assets/b778825d-055d-4c32-8896-3520ef845726" />
+<img width="1920" height="793" alt="4_Silver - Databricks - Google Chrome 14-07-2025 01_11_57" src="https://github.com/user-attachments/assets/04fdb98b-5b72-4300-8316-200cdb049d74" />
+<img width="1920" height="840" alt="Netflix-project - Microsoft Azure - Google Chrome 14-07-2025 21_56_08" src="https://github.com/user-attachments/assets/39c7e52c-12e1-4d37-8f26-1fb9e49490b1" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
